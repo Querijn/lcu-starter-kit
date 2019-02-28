@@ -1,0 +1,15 @@
+{
+  "name": "my-first-lcu-project",
+  "version": "1.0.0",
+  "description": "My first LCU project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lcu-connector": "^2.1.0",
+    "ws": "^6.1.4"
+  }
+}
