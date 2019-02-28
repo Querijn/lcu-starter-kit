@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "got": "^9.6.0",
     "lcu-connector": "^2.1.0",
     "ws": "^6.1.4"
   }
