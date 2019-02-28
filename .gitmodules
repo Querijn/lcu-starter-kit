@@ -1,0 +1,3 @@
+[submodule "rift-explorer"]
+	path = rift-explorer
+	url = git@github.com:Pupix/rift-explorer.git
