@@ -49,7 +49,7 @@ async function getCurrentSummoner(data) {
 			}
 		});
 
-		return JSON.parse(response.body);
+		return await response.json();
 	}
 	catch (e) {
 		if (e && e.statusCode === 404) // Not logged in?
